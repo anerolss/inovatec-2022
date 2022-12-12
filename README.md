@@ -1,20 +1,8 @@
-# Projeto de Inovação (Inovatec 2022)
+# projeto de inovação (inovatec 2022)grupo: eita! e agora?
+## integrantes por equipes    **equipe executiva**: renan freitas, vinicius fernandes e victor souza.  **equipe de marketing**: lorena santana, enock soares e everton alves.  **equipe operacional**: janiele justino, bruna vieira, fernanda silva, victor silva. 
+## pitch
+**apresentadores**: renan freitas.  
+**documentos:**  lean canvas  https://drive.google.com/file/d/1-yazdjqvm_ellymibgv9qmp5gakjeeid/view?usp=share_link  relatório da pesquisa de validação  https://drive.google.com/file/d/11rojvnw9n2qnq-sf-wy5anggw5soyock/view?usp=share_link  desk research  https://drive.google.com/file/d/1hs-rk5wrxlugmaqneylnky4h-xwqoirh/view?usp=share_link  escopo do produto  https://docs.google.com/document/d/1xh90vbvlyoato-vcccljpgsqkpz3t8ywf_kwxs41uds/edit?usp=sharing  escopo do projeto  https://docs.google.com/document/d/1phduangy9bvdvpv40lpkc_zf6e_l2i83fnwcizlonlq/edit?usp=share_link  slide  https://drive.google.com/file/d/1muods-bm3lopi_8cf8xihgtlf0lp8pqr/view?usp=share_link  
 
-## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
-
-## Passos
-
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
-- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
-- 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
-- 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
-
-## Pitch
-
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
-
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+<p align="left">  <a href="https://www.linkedin.com/in/lorenasantanasilva/" alt="linkedin">  <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logocolor=white&link=https://www.linkedin.com/in/lorenasantanasilva/" height= "25xp" /></a></p>
